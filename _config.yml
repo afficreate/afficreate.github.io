@@ -16,7 +16,7 @@ timezone: Asia/Seoul
 
 title: afficreate # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: 돈, 시간, 에너지를 절약할 수 있는 알짜배기 정보를 한눈에 확인하세요. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   돈, 시간, 에너지를 절약할 수 있는 알짜배기 정보를 한눈에 확인하세요.
