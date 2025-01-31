@@ -1,7 +1,7 @@
 ---
 title: 한메일 바로가기 https//mail.daum.net 이메일 서비스
 author: bing
-date: 2025-01-31
+date: 2025-02-01
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
